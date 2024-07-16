@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <div class="col">
+        {% include 'subscriptions/snippet/card.html' with object=object %}
+    </div>
+</div>
+
+
+{% endblock %}

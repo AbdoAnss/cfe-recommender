@@ -1,0 +1,34 @@
+<div class="card shadow-sm">
+  <div class="h4 blockquote">
+    <h4>{{ object.title }}</h4>
+  </div>
+    
+    <div class="card-body">
+      <p class="card-text">{{ object.description }}</p>
+      <div class="d-flex justify-content-between align-items-center">
+        {% if object.get_absolute_url not in request.path %}
+        <div class="btn-group">
+          <a type="button" class="btn btn-sm btn-outline-secondary" href="{{object.get_absolute_url}}">View</a>
+        </div>
+        {% endif %}
+
+        <div>
+          <select class="form-control">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+          </select>
+        
+       
+
+
+
+        {% if object.rating_avg is not None%}
+        <small class="text-body-secondary">{{ object.rating_avg }} ({{object.rating_count}})</small>
+        {% endif %}
+      </div>
+      </div>
+    </div>
+  </div>

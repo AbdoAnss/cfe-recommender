@@ -1,0 +1,29 @@
+id,title,description,level
+101,Responsabilite Civile,Votre assurance auto vous indemnise pour les dommages materiels et corporels que causerait votre voiture a autrui.,Tiers
+102,Defense Penale et Recours,"Dans le cadre de l'assurance de votre voiture, vos interets sont defendus lorsque vous etes poursuivi devant les juridictions repressives (Tribunal de police…) a la suite d'un accident impliquant le vehicule assure.",Tiers
+103,"Assistance 24h/24, 7j/7 ","Votre assurance auto en ligne a prevu une aide d'urgence immediate suite a panne, accident, vol, maladie au cours d'un voyage avec votre voiture ",Tiers
+104,Vehicule de pret pendant les reparations,"A la suite d'un sinistre garanti, nous vous pretons une voiture pendant les reparations, en procedant a l'echange sur le lieu de votre choix du vehicule de pret et de la voiture. Si votre situation ne vous permet pas de beneficier de ce service de livraison (ex : votre voiture n'est pas en etat de rouler), une voiture vous sera pretee dans le garage partenaire qui effectuera la reparation. ",Tiers
+105,Garantie Personnelle du Conducteur,"Souscrire une assurance pour sa voiture, c'est egalement prevoir d'assurer celui qui la conduit. Des lors que le taux d'Atteinte Permanente a l’Integrite Physique et Psychique (AIPP) est superieur a 10 %, la Garantie Personnelle du Conducteur de l'assurance auto Direct Assurance indemnise jusqu'a 1 500 000 euro le conducteur qui est a la fois victime et responsable d'un accident pour les consequences de ses blessures : prejudices corporels, frais medicaux a charge, incapacite de travail, invalidite... ",Tiers
+201,Tempetes et evenements climatiques exceptionnels,"Votre assurance auto indemnise, franchise deduite, les dommages causes a votre voiture par un evenement climatique exceptionnel : grele, chute d'objets lors d'une tempete, poids de la neige. ",Tiers Maxi
+202,"Attentats, Catastrophes naturelles et technologiques","L'assurance de votre voiture indemnise les dommages qui lui sont causes par un attentat, une catastrophe naturelle ou technologique. ",Tiers Maxi
+203,Bris de glace ,"Dans le cadre de votre assurance auto, vous etes indemnise, franchise deduite, des reparations ou du remplacement de votre pare-brise, de votre lunette arriere, de vos glaces laterales. S'il est possible de reparer votre pare-brise par injection de resine, vous n'avez pas de franchise a regler.  ",Tiers Maxi
+204,Incendie (y compris vandalisme),"Votre contrat d'assurance auto indemnise, franchise deduite, les degats causes a votre voiture par le feu ou une explosion, action de la foudre, a hauteur de la valeur de la voiture.  ",Tiers Maxi
+205,Vol et Tentative de Vol,"Votre assurance auto vous indemnise, franchise deduite, des frais de remise en etat ou de la valeur de votre voiture, au moment du vol ou de la tentative de vol.  ",Tiers Maxi
+206,Indemnisation Valeur a Neuf,"Cette garantie indemnise la valeur du vehicule a hauteur de son prix d'achat si celui-ci a ete achete neuf dans les 12 derniers mois en Formules Tiers Maxi et Tous Risques. En Formule Tous Risques Maxi, votre voiture vous est remboursee de son prix d'achat si elle a ete achetee neuve dans les 4 dernieres annees.  ",Tiers Maxi
+301,Dommages Tous Accidents (y compris vandalisme),"La couverture des degats accidentels causes a votre voiture est garantie suite a :
+- chute d'objets ou de substances,
+- acte de vandalisme, d'emeutes ou de mouvements populaires,
+- accident avec un autre vehicule identifie ou non,
+- accident dans lequel seule votre voiture est impliquee.
+Lorsque votre responsabilite est engagee, vous reglez une franchise.",Tous Risques
+401,Bris de glace etendu,"La garantie Bris de glace, telle que decrite dans la rubrique correspondante, est etendue a l'ensemble des degats subis par les optiques avant (phares, anti-brouillard et clignotant) et toits vitres (ouvrants ou non). ",Tous Risques Maxi
+402,Contenu du vehicule,"Nous couvrons les objets transportes dans votre vehicule, en cas de vol ou de deterioration, a la suite d'un sinistre garanti jusqu'a 1 000 euro. ",Tous Risques Maxi
+403,Garantie Personnelle du Conducteur etendue,"Le montant de l'indemnisation maximale de la Garantie Personnelle du Conducteur, telle que decrite dans la rubrique Garantie Personnelle du Conducteur, est etendue a 1 500 000 euro. ",Tous Risques Maxi
+404,Assistance en cas de panne : 0 km,"Votre voiture tombe en panne devant votre domicile, sur le parking de votre supermarche, a proximite de l’ecole ? Vous etes remorque sans conditions de distance entre votre domicile et le lieu de la panne.   ",Tous Risques Maxi
+405,"Assistance cles perdues, brisees ou volees : 0 km","La garantie Assistance, telle que decrite dans la rubrique Assistance 24H/24, 7J/7, vous est accordee en cas de cles perdues, brisees ou volees.  ",Tous Risques Maxi
+406,Assistance vehicule electrique : 0 km,"L'Assistance 24H/24, 7J/7, vous est accordee pour votre vehicule electrique en cas de panne de charge. ",Tous Risques Maxi
+407,Vehicule de pret etendu,"En complement du Vehicule de pret pendant les reparations dans nos garages partenaires, un vehicule de pret est mis a votre disposition sous 24h en cas d'accident, de panne, de vol ou si votre voiture est irreparable, et ce quel que soit le garage choisi. ",Tous Risques Maxi
+408,Rachat de franchise Bris de glace,"En cas de bris de glace, vous ne payez pas de franchise et n'avez aucun frais a votre charge. De plus, votre Bonus-Malus (CRM) n'est pas impacte. ",Tous Risques Maxi
+409,Leasing - Perte financiere,"Cette garantie a ete pensee pour les voitures financees en Location avec Option d'Achat (LOA) ou en Location Longue Duree (LLD). Elle prend en charge l'integralite des loyers restant ou l'indemnite a payer a la societe de financement lorsque le vehicule est : 
+- irreparable suite a un accident ou tout autre dommage cause au vehicule, vole et non retrouve. 
+- Sans franchise complementaire.",Tous Risques Maxi
